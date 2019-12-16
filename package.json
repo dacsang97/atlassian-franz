@@ -1,0 +1,12 @@
+{
+  "id": "atlassian",
+  "name": "Atlassian",
+  "version": "0.0.1",
+  "description": "Atlassian Cloud for Franz",
+  "author": "Evan N <dacsang97@gmail.com>",
+  "config": {
+    "serviceURL": "https://{teamId}.atlassian.net",
+    "hasTeamId": true,
+    "urlInputSuffix": ".atlassian.net"
+  }
+}
